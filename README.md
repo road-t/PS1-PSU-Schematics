@@ -37,7 +37,7 @@ This schematic covers the **NPXA87J** family:
 | 1-413-997-14 | ETXA87C2J (NPXA87J-1D) | &#9989; |
 | 1-413-997-15 | ETXA87C2J (NPXA87J-1E) | &#9989; |
 
-See [psdevwiki](https://psdevwiki.com/ps1/Power_supplies) for the full 7-pin PSU list.
+See [psdevwiki](https://www.psdevwiki.com/ps1/Power_Supply) for the full 7-pin PSU list.
 
 ## 📂 Repository Structure
 ```
