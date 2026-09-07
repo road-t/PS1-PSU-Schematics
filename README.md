@@ -37,28 +37,7 @@ This schematic covers the **NPXA87J** family:
 | 1-413-997-14 | ETXA87C2J (NPXA87J-1D) | &#9989; |
 | 1-413-997-15 | ETXA87C2J (NPXA87J-1E) | &#9989; |
 
-See [psdevwiki](https://www.psdevwiki.com/ps1/Power_Supply) for the full 7-pin PSU list.
-
-## 📂 Repository Structure
-```
-ETXA87C2J/
-├── README.md
-├── schematics/
-│   ├── ETXA87C2J.png          # Schematic image (raster)
-│   └── ETXA87C2J.svg          # Schematic image (vector)
-├── datasheets/
-│   ├── AN1358.PDF             # AN6562 dual op-amp (IC101)
-│   ├── MA10799.PDF            # Dual Schottky diode (D101/D102)
-│   ├── PS2501.PDF             # Optocoupler (PC001)
-│   ├── 2SC4953.PDF            # NPN transistor (Q001)
-│   ├── 2SD1302.PDF            # Switching transistor (Q002)
-│   └── UN4211.PDF             # Digital transistor (Q101-Q103)
-├── img/
-│   ├── top.png / bottom.png   # Board photos
-│   └── ...                    # Component close-ups
-└── project/
-    └── SCH_PS1-PSU-7pin.eprj2 # EasyEDA source project
-```
+See [my document](PS1_PSU_models_list.md) for the full (not sure)  PlayStation PSU list.
 
 ### Schematic
 
