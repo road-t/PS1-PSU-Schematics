@@ -111,31 +111,52 @@ Photos of the original board (high resolution, beware of file size).
 | **Q002** | D1302 | **[2SD1302](datasheets/2SD1302.PDF)** &ndash; NPN-transistor | 20V | |
 | **Q101, Q102** | N4211 | **[UN4211](datasheets/UN4211.PDF)** &ndash; Digital bias transistors | 50V | |
 | **Q103** | N4210 | **[UN4210](datasheets/UN4211.PDF)** &ndash; Digital bias transistor | 50V | |
-| **R001** | 🟫 ⬛ 🟩 🟡 | 1M&Omega; resistor | N/A | 1/4W |
-| **R002** | 🟫 🟩 🟨 🟡 | 150k&Omega; resistor | N/A | 1/8W |
-| **R003** | 🟥 🟪 🟥 🟡 | 2.7k&Omega; resistor | N/A | 1/8W |
-| **R004** | 🟨 🟪 ⬛ 🟡 | 47&Omega; resistor | N/A | 1W |
-| **R005** | 🟫 ⬛ 🟨 🟡 | 100k&Omega; resistor | N/A | 1/4W |
-| **R006, R109** | 🟫 ⬛ 🟫 🟡 | 100&Omega; resistors | N/A | 1/2W |
-| **R007, R010** | 🟥 🟥 🟫 🟡 | 220&Omega; resistors | N/A | 1/8W |
-| **R008, R009** | 🟧 ⬜ 🟫 🟡 | 390&Omega; resistors | N/A | 1/8W |
-| **R101** | 🟧 🟧 🟫 🟡 | 330&Omega; resistor | N/A | 1/8W |
-| **R102** | 🟫 🟧 🟫 🟡 | 130&Omega; resistor | N/A | 1/8W |
-| **R103, R105** | 🟩 🟦 🟫 🟡 | 560&Omega; resistors | N/A | 1/8W |
-| **R104** | 🟥 🟥 🟥 🟡 | 2.2k&Omega; resistor | N/A | 1/8W |
-| **R106** | 🟧 ⬛ 🟥 🟡 | 3k&Omega; resistor | N/A | 1/8W |
-| **R107** | 🟥 🟨 🟥 🟡 | 2.4k&Omega; resistor | N/A | 1/8W |
-| **R108** | 🟧 🟧 🟥 🟫 🟤 | 3.32k&Omega; resistor | N/A | 1/8W |
-| **R110** | 🟦 ⬜ 🟥 🟡 | 6.8k&Omega; resistor | N/A | 1/8W |
-| **R111** | 🟧 🟧 ⬛ 🟡 | 33&Omega; resistor | N/A | 1/8W |
-| **R113** | 🟩 🟦 🟥 🟡 | 5.6k&Omega; resistor | N/A | 1/8W |
-| **R114** | 🟦 ⬜ ⬛ 🟡 | 68&Omega; resistor | N/A | 1/4W |
+| **R001** | 🟫 ⬛ 🟩 🟡 | 1M&Omega; resistor | N/A | 1/4W, 5% |
+| **R002** | 🟫 🟩 🟨 🟡 | 150k&Omega; resistor | N/A | 1/8W, 5%|
+| **R003** | 🟥 🟪 🟥 🟡 | 2.7k&Omega; resistor | N/A | 1/8W, 5%|
+| **R004** | 🟨 🟪 ⬛ 🟡 | 47&Omega; resistor | N/A | 1W, 5%|
+| **R005** | 🟫 ⬛ 🟨 🟡 | 100k&Omega; resistor | N/A | 1/4W, 5%|
+| **R006, R109** | 🟫 ⬛ 🟫 🟡 | 100&Omega; resistors | N/A | 1/2W, 5%|
+| **R007, R010** | 🟥 🟥 🟫 🟡 | 220&Omega; resistors | N/A | 1/8W, 5%|
+| **R008** | 🟧 ⚪️ 🟫 🟡 | 390&Omega; resistors | N/A | 1/8W, 5%|
+| **R009** | 🟡 🟥 🟥 🟫 🟤 | 4.22k&Omega; resistors | N/A | 1/8W, 1%|
+| **R101** | 🟧 🟧 🟫 🟡 | 330&Omega; resistor | N/A | 1/8W, 5%|
+| **R102** | 🟫 🟧 🟫 🟡 | 130&Omega; resistor | N/A | 1/8W, 5%|
+| **R103, R105** | 🟩 🟦 🟫 🟡 | 560&Omega; resistors | N/A | 1/8W, 5%|
+| **R104** | 🟥 🟥 🟥 🟡 | 2.2k&Omega; resistor | N/A | 1/8W, 5%|
+| **R106** | 🟧 ⬛ 🟥 🟡 | 3k&Omega; resistor | N/A | 1/8W, 5%|
+| **R107** | 🟥 🟨 ⬛ 🟫 🟤 | 2.4k&Omega; resistor | N/A | 1/8W, 1%|
+| **R108** | 🟧 🟧 🟥 🟫 🟤 | 3.32k&Omega; resistor | N/A | 1/8W, 1%|
+| **R110** | 🟦 ◻️ 🟥 🟡 | 6.8k&Omega; resistor | N/A | 1/8W, 5%|
+| **R111** | 🟧 🟧 ⬛ 🟡 | 33&Omega; resistor | N/A | 1/8W, 5%|
+| **R113** | 🟩 🟦 🟥 🟡 | 5.6k&Omega; resistor | N/A | 1/8W, 5%|
+| **R114** | 🟦 ◻️ ⬛ 🟡 | 68&Omega; resistor | N/A | 1/4W, 5%|
 | **T001** | BD131A | Switching transformer | N/A | ??? | |
 | **VR101** | N/A | Variable resistor (pot) | N/A | N/A | Usually reads in range 110&ndash;125&Omega; |
-| **ZD001** | 🟨🟨 🟫 🟫 | 4.3V Zener Diode | 20V | 1/2W |
+| **ZD001** | 🟨🟨 🟧 🟧 | 4.3V Zener Diode | 20V | 1/2W |
 | **ZD002** | 🟨🟨 🟪 🟪 | 4.7V Zener Diode | 20V | 1/2W |
 | **ZD101** | 🟫🟫 🟥 | 12V Zener Diode (1W) | 20V |1W |
-| **ZD102, ZD103** | 🟩🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1/2W |
+| **ZD102** | 🟩🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1W |
+| **ZD103** | 🟩🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1/2W |
+
+#### Color Legend
+
+| Emoji | Color |
+| :--- | :--- |
+| 🟥 | Red |
+| 🟧 | Orange |
+| 🟨 | Yellow |
+| 🟩 | Green |
+| 🟦 | Blue |
+| 🟪 | Violet |
+| 🟫 | Brown |
+| ⬛ | Black |
+| ⚪️ | **White** |
+| ◻️ | **Grey** |
+| 🟡 | Gold |
+| 🟤 | Brown |
+
+Resistor color bands are read as **digit – digit – multiplier – tolerance**. Zener diodes use the same codes, with the **first band doubled** (e.g. `🟨🟨` = yellow-yellow) to mark the cathode side, bands of same color mean decimal point (e.g. 🟩 = 5, 🟫 = 1, 🟩🟩 🟫 🟫  = 5.1V ). The circular emoji (🟡 / 🟤) represents the tolerance ring; all other rings are squares.
 
 ## 🛠️ How to Use This Information
 1.  **Download the schematic:** Use it as a reference while troubleshooting your PSU.
