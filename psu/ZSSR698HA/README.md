@@ -1,11 +1,5 @@
 # Nichicon ZSSR698HA PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
 
-### 🚧 Status & Known Limitations
-
-- **Schematic can be incomplete and is UNVERIFIED:** The provided schematic is a best-effort reconstruction based on tracing a physical board. It may contain errors, missing components, or incorrect net labels.
-- **Testing is ongoing:** I have **not yet fully verified** that the schematic is 100% accurate under all load conditions.
-- **Use at your own risk:** This is a **high-voltage device**. Incorrect assumptions can lead to dangerous short circuits, component damage, or personal injury. Do not use this schematic as a primary source for manufacturing or cloning without independent verification.
-
 ### Known Revisions
 
 **ZSSR698HA** family:
