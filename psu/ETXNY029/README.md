@@ -1,4 +1,4 @@
-# ETXNY029 (Matsushita/Panasonic, 7-pin)
+# Matsushita (Panasonic) ETXNY029 (NPX029J1-1) PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
 
 Panasonic power supply family. Covers the Japanese 100-120V, North American 100-120V, European 220–240V and Asia universal 100–240V variants.
 
@@ -13,7 +13,43 @@ Panasonic power supply family. Covers the Japanese 100-120V, North American 100-
 
 ## Photos
 
-- [photos/](photos/) — `1-468-156-11` (ETXNY029M1C) top/bottom
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-468-156-11-top_no_bg.png) | ![Board bottom](photos/1-468-156-11-bottom_no_bg.png) |
+
+## Capacitors
+
+Source: [RetroSix Wiki — Capacitors (Sony PlayStation 1)](https://retrosix.wiki/wiki/capacitors-sony-playstation-1). All THT.
+
+### `1-473-380-12` — ETXNY029A1C
+
+| Designator | Value | Voltage | Mounting |
+| :--- | :--- | :--- | :--- |
+| C107 | 1uF | 50V | THT |
+| C003 | 120uF | 200V | THT |
+| C104 | 180uF | 25V | THT |
+| C105 | 180uF | 35V | THT |
+| C102, C103 | 560uF | 25V | THT |
+
+### `1-473-380-13` — ETXNY085A1C
+
+| Designator | Value | Voltage | Mounting |
+| :--- | :--- | :--- | :--- |
+| C107 | 1uF | 50V | THT |
+| C003 | 100uF | 200V | THT |
+| C104 | 220uF | 25V | THT |
+| C105 | 330uF | 25V | THT |
+| C102, C103 | 560uF | 25V | THT |
+
+### `1-468-156-11` — ETXNY029M1C
+
+| Designator | Value | Voltage | Mounting |
+| :--- | :--- | :--- | :--- |
+| C107 | 1uF | 50V | THT |
+| C005 | 82uF | 400V | THT |
+| C104 | 180uF | 25V | THT |
+| C105 | 180uF | 35V | THT |
+| C102, C103 | 560uF | 25V | THT |
 
 ## Schematics
 

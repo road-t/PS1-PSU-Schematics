@@ -1,4 +1,4 @@
-# SR674 (Mitsumi, 7-pin)
+# Mitsumi SR674 PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |

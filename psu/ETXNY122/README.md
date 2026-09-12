@@ -1,4 +1,4 @@
-# ETXNY122 (Matsushita/Panasonic, 5-pin)
+# Matsushita (Panasonic) ETXNY122 (NPX122J1-1) PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
 
 Late "fat" model power supply family.
 
@@ -11,7 +11,20 @@ Late "fat" model power supply family.
 
 ## Photos
 
-- [photos/](photos/) — `1-468-176-11` (ETXNY122J1B) top/bottom
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-468-176-11-top_no_bg.png) | ![Board bottom](photos/1-468-176-11-bottom_no_bg.png) |
+
+## Capacitors
+
+For `1-468-219-21` (ETXNY122E1B). Source: [RetroSix Wiki — Capacitors (Sony PlayStation 1)](https://retrosix.wiki/wiki/capacitors-sony-playstation-1). All THT.
+
+| Designator | Value | Voltage | Mounting |
+| :--- | :--- | :--- | :--- |
+| C107 | 1uF | 50V | THT |
+| C003 | 47uF | 400V | THT |
+| C104, C105 | 120uF | 25V | THT |
+| C102, C103 | 560uF | 25V | THT |
 
 ## Schematics
 

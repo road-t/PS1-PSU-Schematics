@@ -1,4 +1,4 @@
-# PS-378 (Sony, developer/debug hardware)
+# Sony PS-378 PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -6,7 +6,9 @@
 
 ## Photos
 
-- [photos/](photos/) — `1-661-742-11` (PS-378) top/bottom
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-661-742-11-top_no_bg.png) | ![Board bottom](photos/1-661-742-11-bottom_no_bg.png) |
 
 ## Schematics
 
