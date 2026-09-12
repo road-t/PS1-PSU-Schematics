@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.icon
+.localized
+
+# Editor / OS
+*.swp
+*~
+.idea/
+.vscode/
+
+# Image processing artifacts
+_originals/
