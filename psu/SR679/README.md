@@ -4,6 +4,10 @@
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-218-21` | `SR679` | 100-120V | SCPH-5501, 7001, 7501, 9001 | North America |
 
+## Schematics
+
+![Mitsumi SR679 Schematic](schematics/1-468-218-21.png)
+
 ## Photos
 
 | Board top | Board bottom |
