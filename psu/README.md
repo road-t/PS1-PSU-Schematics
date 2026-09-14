@@ -35,10 +35,10 @@
 
 | Sony # | Manufacturer # | Manufacturer | Voltage | Models | Motherboards | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `1-468-176-11` | `ETXNY122J1B` (NPX122J1-1) | Matsushita (Panasonic) | 100V | SCPH-7000 | PU-18, PU-20 | Japan |
+| `1-468-176-11` | `ETXNY122J1B` (NPX122J1-1) | Matsushita (Panasonic) | 100V | SCPH-5500, 7000 | PU-18, PU-20 | Japan |
 | `1-468-176-23` | `SR678` | Mitsumi | 100V | SCPH-7000, 7500 | PU-18, PU-20 | Japan |
 | `1-468-218-11` | `ETXNY122A1B` | Matsushita (Panasonic) | 120V | SCPH-5501, 7001 | PU-18, PU-20 | North America |
-| `1-468-218-21` | `SR679` | Mitsumi | 120V | SCPH-5501 | PU-18 | North America |
+| `1-468-218-21` | `SR679` | Mitsumi | 120V | SCPH-5501, 7001 | PU-18 | North America |
 | `1-468-218-31` | `ZSSR694MA` | Nichicon | 120V | SCPH-5501, 7001 | PU-18, PU-20 | North America |
 | `1-468-218-32` | `ZSSR694MA` | Nichicon | 120V | SCPH-5501, 7001 | PU-18, PU-20 | North America |
 | `1-468-219-13` | `ZSSR698HA` | Nichicon | 220–240V | SCPH-5502, 5552, 7002 | PU-18, PU-20 | Europe |
