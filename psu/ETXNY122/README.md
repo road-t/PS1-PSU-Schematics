@@ -9,6 +9,12 @@ Late "fat" model power supply family.
 | `1-468-219-21` | `ETXNY122E1B` (NPX122E1-1) | 220–240V | SCPH-5502, 7002, 7502, 9002 | Europe |
 | `1-468-243-11` | `ETXNY122M1B` (NPX122M1-1A) | 110–240V | SCPH-550x, 700x, 750x, 900x | Asia (universal) |
 
+## Schematics
+
+*⚠️ The schematic below is applicable to all Matsushita **ETXNY122**-series PSUs (**ETXNY122J1B**, **ETXNY122A1B**,**ETXNY122E1B**, **ETXNY122M1B**, etc.), however the component values shown correspond to the 100–240V universal variant (**1-468-243-11**).*
+
+![ETXNY122 Schematic](schematics/1-468-243-11.svg)
+
 ## Photos
 
 | Board top | Board bottom |
@@ -25,7 +31,3 @@ For `1-468-219-21` (ETXNY122E1B). Source: [RetroSix Wiki — Capacitors (Sony Pl
 | C003 | 47uF | 400V | THT |
 | C104, C105 | 120uF | 25V | THT |
 | C102, C103 | 560uF | 25V | THT |
-
-## Schematics
-
-_None yet._
