@@ -64,13 +64,13 @@ Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource pre
 | Mitsumi | [**SR670**](psu/SR670/) | 7-pin | | | |
 | Mitsumi | [**SR674**](psu/SR674/) | 7-pin | | | |
 | Mitsumi | [**SR678**](psu/SR678/) | 5-pin | | | ✅ |
-| Mitsumi | [**SR679**](psu/SR679/) | 5-pin | | | ✅ |
+| Mitsumi | [**SR679**](psu/SR679/) | 5-pin | ✅ | | ✅ |
 | Fujitsu | [**KS350-1401-H039/05**](psu/KS350-1401-H039-05/) | 7-pin | | | |
-| Nichicon | [**ZSSR654HA**](psu/ZSSR654HA/) | 7-pin | | | |
+| Nichicon | [**ZSSR654HA**](psu/ZSSR654HA/) | 7-pin | | | ✅ |
 | Nichicon | [**ZSSR694MA**](psu/ZSSR694MA/) | 5-pin | | | |
 | Nichicon | [**ZSSR797MA**](psu/ZSSR797MA/) | 5-pin | | | ✅ |
 | Nichicon | [**ZSSR698HA**](psu/ZSSR698HA/) | 5-pin | ✅ | | ✅ |
-| Nichicon | [**ZSSR706HA**](psu/ZSSR706HA/) | 5-pin | | | ✅ |
+| Nichicon | [**ZSSR706HA**](psu/ZSSR706HA/) | 5-pin | ✅ | | ✅ |
 | Sony | [**PS-378**](psu/PS-378/) | dev (12V) | | | ✅ |
 
 ## 🛠️ How to Use This Information

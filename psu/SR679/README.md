@@ -6,6 +6,8 @@
 
 ## Schematics
 
+### SR679
+
 ![Mitsumi SR679 Schematic](schematics/1-468-218-21.png)
 
 ## Photos

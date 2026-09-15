@@ -41,6 +41,8 @@
 | `1-468-218-21` | `SR679` | Mitsumi | 120V | SCPH-5501, 7001 | PU-18 | North America |
 | `1-468-218-31` | `ZSSR694MA` | Nichicon | 120V | SCPH-5501, 7001 | PU-18, PU-20 | North America |
 | `1-468-218-32` | `ZSSR694MA` | Nichicon | 120V | SCPH-5501, 7001 | PU-18, PU-20 | North America |
+| `1-468-219-11` | `ZSSR698HA` | Nichicon | 220–240V | SCPH-5502, 5552, 7002 | PU-18, PU-20 | Europe |
+| `1-468-219-12` | `ZSSR698HA` | Nichicon | 220–240V | SCPH-5502, 5552, 7002 | PU-18, PU-20 | Europe |
 | `1-468-219-13` | `ZSSR698HA` | Nichicon | 220–240V | SCPH-5502, 5552, 7002 | PU-18, PU-20 | Europe |
 | `1-468-219-21` | `ETXNY122E1B` (NPX122E1-1) | Matsushita (Panasonic) | 220–240V | SCPH-5502, 5552 | PU-18 | Europe |
 | `1-468-243-11` | `ETXNY122M1B` (NPX122M1-1A) | Matsushita (Panasonic) | 110–240V | SCPH-5503, 7003, 7503, 9003 | PU-18, PU-20, PU-22, PU-23 | Asia (universal) |
