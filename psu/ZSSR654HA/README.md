@@ -4,9 +4,13 @@
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-159-11` | `ZSSR654HA` | 220–240V | SCPH-1002, 5002, 5502, 7002, 7502 | Europe |
 
-## Photos
+## 📷 Board Photos
 
-_None yet._
+### Top / Bottom
+
+| Top side | Bottom side |
+| :--- | :--- |
+| ![Board top](photos/1-468-159-11-top_no_bg.png) | |
 
 ## Schematics
 
