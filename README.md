@@ -9,7 +9,7 @@ Collection of reverse-engineering documentation for the internal and developer p
 
 ### 🤝 Contributions & Corrections
 
-This project needs a **community effort**. There are dozen of different PS1 power supplies out there, and most of them still have **empty boxes** in the [model list](psu/README.md) — no schematics, no BOM, no photos. Every single model deserves a full page.
+This project needs a **community effort**. There are dozen of different PS1 power supplies out there, and most of them still have empty boxes in the model list: no schematics, no BOM, no photos (very sad). Every single model deserves a full page.
 
 If you own a PSU that isn't documented yet, **please help**. Contributions in any form are welcome:
 
