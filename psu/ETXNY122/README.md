@@ -4,16 +4,20 @@ Late "fat" model power supply family.
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| `1-468-176-11` | `ETXNY122J1B` (NPX122J1-1) | 100-120V | SCPH-5500, 7000, 7500, 9000 | Japan |
-| `1-468-218-11` | `ETXNY122A1B` | 100-120V | SCPH-5501, 7001, 7501, 9001 | North America |
+| `1-468-176-11` | `ETXNY122J1B` (NPX122J1-1) | 100V | SCPH-5500, 7000, 7500, 9000 | Japan |
+| `1-468-218-11` | `ETXNY122A1B` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
 | `1-468-219-21` | `ETXNY122E1B` (NPX122E1-1) | 220–240V | SCPH-5502, 7002, 7502, 9002 | Europe |
-| `1-468-243-11` | `ETXNY122M1B` (NPX122M1-1A) | 110–240V | SCPH-550x, 700x, 750x, 900x | Asia (universal) |
+| `1-468-243-11` | `ETXNY122M1B` (NPX122M1-1A) | 100–240V | SCPH-550x, 700x, 750x, 900x | Asia (universal) |
 
 ## Schematics
 
-*⚠️ The schematic below is applicable to all Matsushita **ETXNY122**-series PSUs (**ETXNY122J1B**, **ETXNY122A1B**,**ETXNY122E1B**, **ETXNY122M1B**, etc.), however the component values shown correspond to the 100–240V universal variant (**1-468-243-11**).*
+### `ETXNY122J1B` (NPX122J1-1)
 
-![ETXNY122 Schematic](schematics/1-468-243-11.svg)
+![ETXNY122J1B Schematic](schematics/1-468-176-11.png)
+
+### `ETXNY122M1B` (NPX122M1-1A)
+
+![ETXNY122M1B Schematic](schematics/1-468-243-11.svg)
 
 ## Photos
 
