@@ -2,7 +2,11 @@
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| `1-468-158-11` | `KS350-1401-H039/05` | 100-120V | SCPH-1001, 5001, 5501, 7001, 7501 | North America |
+| `1-468-158-11` | `KS350-1401-H039/05` | 120V | SCPH-1001 | North America |
+
+## Schematics
+
+_None yet._
 
 ## Photos
 
@@ -19,7 +23,3 @@ For `1-468-158-11`. Source: [RetroSix Wiki — Capacitors (Sony PlayStation 1)](
 | C10, C11 | 330uF | 16V | THT |
 | C8 | 2200uF | 16V | THT |
 | C9 | 3300uF | 10V | THT |
-
-## Schematics
-
-_None yet._
