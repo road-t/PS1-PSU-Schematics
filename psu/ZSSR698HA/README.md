@@ -4,19 +4,17 @@
 
 **ZSSR698HA** family:
 
-| Sony Part No. | Manufacturer Part No. | Tested |
-| :--- | :--- | :--- |
-| `1-468-219-11` | `ZSSR698HA` | |
-| `1-468-219-12` | `ZSSR698HA` | |
-| `1-468-219-13` | `ZSSR698HA` | &#9989; |
-
-See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU list.
+| Sony # | Manufacturer # | Voltage | Models | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| `1-468-219-11` | `ZSSR698HA` | 220-240V | SCPH-5502, 5552, 7002| Europe |
+| `1-468-219-12` | `ZSSR698HA` | 220-240V | SCPH-5502, 5552, 7002| Europe |
+| `1-468-219-13` | `ZSSR698HA` | 220-240V | SCPH-5502, 5552, 7002| Europe |
 
 ### Schematic
 
-⚠️ **Warning** This schematic was found in the internet and is not verified so far.
+### ZSSR698HA
 
-![ZSSR698HA Schematic](schematics/ZSSR698HA.jpg)
+![ZSSR698HA Schematic](schematics/1-468-219-14.png)
 
 ## 📷 Board Photos
 
@@ -36,16 +34,3 @@ See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU 
 | **C102** | 820&mu;F | 16V | |
 | **C105** | 2.2&mu;F | 50V | |
 | **C106** | 1&mu;F | 50V | |
-
-## Capacitors in detail
-
-See the [RetroSix Wiki &ndash; Capacitors (Sony PlayStation 1)](https://retrosix.wiki/wiki/capacitors-sony-playstation-1). All THT.
-
-| Designator | Value | Voltage |
-| :--- | :--- | :--- |
-| C106 | 1uF | 50V |
-| C105 | 2.2uF | 50V |
-| C003 | 47uF | 400V |
-| C103, C104 | 180uF | 16V |
-| C101 | 560uF | 16V |
-| C102 | 820uF | 16V |
