@@ -1,6 +1,6 @@
 # Matsushita (Panasonic) ETXNY122 (NPX122J1-1) PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-Late "fat" model power supply family.
+Late fat model power supply family.
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |

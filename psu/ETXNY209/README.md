@@ -25,10 +25,17 @@ Late fat model power supply family.
 
 ## Photos
 
+### ETXNY209J1B
+
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-468-366-11-top_no_bg.png) | ![Board bottom](photos/1-468-366-11-bottom_no_bg.png) |
+
+### ETXNY209E1B
+
 | Board top | Board bottom |
 | :--- | :--- |
 | ![Board top](photos/1-468-304-11-top_no_bg.png) | ![Board bottom](photos/1-468-304-11-bottom_no_bg.png) |
-| ![Board top](photos/1-468-366-11-top_no_bg.png) | ![Board bottom](photos/1-468-366-11-bottom_no_bg.png) |
 
 ## Capacitors
 
