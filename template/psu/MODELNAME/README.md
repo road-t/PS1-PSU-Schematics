@@ -1,4 +1,4 @@
-# <MANUFACTURER> <OEM-PART#> PSU for Sony PlayStation (PSX/PS1) &ndash; Reverse Engineering
+# <MANUFACTURER> <OEM-PART#> PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
 ### Known Revisions
 

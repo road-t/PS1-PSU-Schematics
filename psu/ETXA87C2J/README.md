@@ -1,4 +1,4 @@
-# Matsushita (Panasonic) ETXA87C2J (NPXA87J-1x) PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
+# Matsushita (Panasonic) ETXA87C2J (NPXA87J-1x) PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
 ### 🚧 Status & Known Limitations
 - **Schematic can be incomplete and is UNVERIFIED:** The provided schematic is a best-effort reconstruction based on tracing a physical board. It may contain errors, missing components, or incorrect net labels.

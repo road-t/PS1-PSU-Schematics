@@ -1,4 +1,4 @@
-# Nichicon ZSSR698HA PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
+# Nichicon ZSSR698HA PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
 ### Known Revisions
 

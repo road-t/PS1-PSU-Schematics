@@ -1,11 +1,11 @@
-# Mitsumi SR670 PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
+# Mitsumi SR670 PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| `1-473-381-11` | `SR670` | 100-120V | SCPH-1001 | North America |
-| `1-473-381-12` | `SR670` | 100-120V | SCPH-1001 | North America |
-| `1-473-381-13` | `SR670` | 100-120V | SCPH-1001 | North America |
-| `1-473-381-15` | `SR670` | 100-120V | SCPH-1001 | North America |
+| `1-473-381-11` | `SR670` | 120V | SCPH-1001 | North America |
+| `1-473-381-12` | `SR670` | 120V | SCPH-1001 | North America |
+| `1-473-381-13` | `SR670` | 120V | SCPH-1001 | North America |
+| `1-473-381-15` | `SR670` | 120V | SCPH-1001 | North America |
 
 ## Capacitors
 

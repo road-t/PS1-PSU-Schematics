@@ -1,4 +1,4 @@
-# Sony PS-378 PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
+# Sony PS-378 PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |

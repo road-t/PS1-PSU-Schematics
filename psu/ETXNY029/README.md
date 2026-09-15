@@ -1,6 +1,6 @@
-# Matsushita (Panasonic) ETXNY029 (NPX029J1-1) PSU for Sony PlayStation (PSX/PS1) &ndash; reverse engineering
+# Matsushita (Panasonic) ETXNY029 (NPX029J1-1) PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-Panasonic power supply family. Covers the Japanese 100-120V, North American 100-120V, European 220–240V and Asia universal 100–240V variants.
+Panasonic power supply family. Covers the Japanese 100V, North American 120V, European 220–240V and Asia universal 100–240V variants.
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |

@@ -11,8 +11,8 @@
 
 | Sony # | Manufacturer # | Manufacturer | Voltage | Models | Motherboards | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `1-413-997-12` | `ETXA87C2J` (NPXA87J-1B) | Matsushita (Panasonic) | 100-120V | SCPH-1000, 3000, SCPH-1001 | PU-7, PU-8 | Japan |
-| `1-413-997-13` | `ETXA87C2J` (NPXA87J-1C) | Matsushita (Panasonic) | 100-120V | SCPH-1000, 3000, SCPH-1001 | PU-7, PU-8 | Japan |
+| `1-413-997-12` | `ETXA87C2J` (NPXA87J-1B) | Matsushita (Panasonic) | 100V | SCPH-1000, 3000 | PU-7, PU-8 | Japan |
+| `1-413-997-13` | `ETXA87C2J` (NPXA87J-1C) | Matsushita (Panasonic) | 100V | SCPH-1000, 3000 | PU-7, PU-8 | Japan |
 | `1-413-997-14` | `ETXA87C2J` (NPXA87J-1D) | Matsushita (Panasonic) | 100–120V | SCPH-1000, 3000, SCPH-1001 | PU-7, PU-8 | Japan / North America |
 | `1-413-997-15` | `ETXA87C2J` (NPXA87J-1E) | Matsushita (Panasonic) | 100–120V | SCPH-1000, 3000, SCPH-1001 | PU-7, PU-8 | Japan / North America |
 | `1-413-997-16` | `ETXNY029J1C` (NPX029J1-1) | Matsushita (Panasonic) | 100V | SCPH-1000, 3000, 3500 | PU-7, PU-8 | Japan |
