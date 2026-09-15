@@ -14,7 +14,7 @@
 
 ### ZSSR698HA
 
-![ZSSR698HA Schematic](schematics/1-468-219-14.png)
+![ZSSR698HA Schematic](schematics/1-468-219-13.png)
 
 ## 📷 Board Photos
 
