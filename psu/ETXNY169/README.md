@@ -2,7 +2,7 @@
 
 Late fat model power supply family.
 
-| Sony # | Manufacturer # | Voltage | Models | Notes |
+| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-302-11` | `ETXNY169J1B` (NPX169J1-1) | 100V | 7000, 7500, 9000 | Japan |
 | `1-468-305-11` | `ETXNY169A1B` (NPXA169A1) | 120V | 7001, 7501, 9001 | North America |
@@ -31,7 +31,7 @@ For `1-468-305-11` (ETXNY169A1B, NPXA169A1). Source: [RetroSix Wiki — Capacito
 
 | Designator | Value | Voltage | Mounting |
 | :--- | :--- | :--- | :--- |
-| C107 | 1uF | 50V | THT |
-| C003 | 120uF | 200V | THT |
-| C104, C105 | 220uF | 25V | THT |
-| C102, C103 | 560uF | 25V | THT |
+| C107 | 1&mu;F | 50V | THT |
+| C003 | 120&mu;F | 200V | THT |
+| C104, C105 | 220&mu;F | 25V | THT |
+| C102, C103 | 560&mu;F | 25V | THT |

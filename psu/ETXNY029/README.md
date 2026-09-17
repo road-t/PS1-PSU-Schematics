@@ -2,7 +2,7 @@
 
 Panasonic power supply family. Covers the Japanese 100V, North American 120V, European 220–240V and Asia universal 100–240V variants.
 
-| Sony # | Manufacturer # | Voltage | Models | Notes |
+| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-413-997-16` | `ETXNY029J1C` (NPX029J1-1) | 100V | SCPH-1000, 3000, 3500, 5000 | Japan |
 | `1-413-997-17` | `ETXNY029J1C` (NPX029J1-1A) | 100V | SCPH-1000, 3000, 3500, 5000 | Japan |
@@ -29,28 +29,28 @@ Source: [RetroSix Wiki — Capacitors (Sony PlayStation 1)](https://retrosix.wik
 
 | Designator | Value | Voltage | Mounting |
 | :--- | :--- | :--- | :--- |
-| C107 | 1uF | 50V | THT |
-| C003 | 120uF | 200V | THT |
-| C104 | 180uF | 25V | THT |
-| C105 | 180uF | 35V | THT |
-| C102, C103 | 560uF | 25V | THT |
+| C107 | 1&mu;F | 50V | THT |
+| C003 | 120&mu;F | 200V | THT |
+| C104 | 180&mu;F | 25V | THT |
+| C105 | 180&mu;F | 35V | THT |
+| C102, C103 | 560&mu;F | 25V | THT |
 
 ### `1-473-380-13` — ETXNY085A1C
 
 | Designator | Value | Voltage | Mounting |
 | :--- | :--- | :--- | :--- |
-| C107 | 1uF | 50V | THT |
-| C003 | 100uF | 200V | THT |
-| C104 | 220uF | 25V | THT |
-| C105 | 330uF | 25V | THT |
-| C102, C103 | 560uF | 25V | THT |
+| C107 | 1&mu;F | 50V | THT |
+| C003 | 100&mu;F | 200V | THT |
+| C104 | 220&mu;F | 25V | THT |
+| C105 | 330&mu;F | 25V | THT |
+| C102, C103 | 560&mu;F | 25V | THT |
 
 ### `1-468-156-11` — ETXNY029M1C
 
 | Designator | Value | Voltage | Mounting |
 | :--- | :--- | :--- | :--- |
-| C107 | 1uF | 50V | THT |
-| C005 | 82uF | 400V | THT |
-| C104 | 180uF | 25V | THT |
-| C105 | 180uF | 35V | THT |
-| C102, C103 | 560uF | 25V | THT |
+| C107 | 1&mu;F | 50V | THT |
+| C005 | 82&mu;F | 400V | THT |
+| C104 | 180&mu;F | 25V | THT |
+| C105 | 180&mu;F | 35V | THT |
+| C102, C103 | 560&mu;F | 25V | THT |

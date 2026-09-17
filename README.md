@@ -13,7 +13,7 @@ This project needs a **community effort**. There are dozen of different PS1 powe
 
 If you own a PSU that isn't documented yet, **please help**. Contributions in any form are welcome:
 
-- **Corrections** — spot a wrong value, pinout, trace or a model↔manufacturer number mismatch? Open an issue or fix it directly and create a pull request.
+- **Corrections** — spot a wrong value, pinout, trace or a model↔man&mu;Facturer number mismatch? Open an issue or fix it directly and create a pull request.
 - **New data** — missing PSU model, board photos, component data, or a full reverse-engineering page for a PSU in your hands.
 - **Verification** — you actually installed a replacement part? Report how it went.
 
@@ -37,9 +37,9 @@ Datasheets are **shared** — one folder at the repo root, `datasheets/`. Do **n
 
 | Rule | Example |
 | :--- | :--- |
-| Folder name = manufacturer model # in uppercase, no Sony "#", no spaces | `psu/ETXA87C2J`, `psu/ZSSR797MA` |
-| README starts with a single `# <MODEL> (<Manufacturer>)` line | `# ETXA87C2J (Matsushita/Panasonic)` |
-| Model table columns: `Sony # | Manufacturer # | Voltage | Models | Motherboards | Notes` | see [ETXA87C2J](psu/ETXA87C2J/README.md) |
+| Folder name = man&mu;Facturer model # in uppercase, no Sony "#", no spaces | `psu/ETXA87C2J`, `psu/ZSSR797MA` |
+| README starts with a single `# <MODEL> (<Man&mu;Facturer>)` line | `# ETXA87C2J (Matsushita/Panasonic)` |
+| Model table columns: `Sony # | Man&mu;Facturer # | Voltage | Models | Motherboards | Notes` | see [ETXA87C2J](psu/ETXA87C2J/README.md) |
 | Capacitors go in their own `## Capacitors` section | Value / Voltage / Mounting |
 | Use Unicode units | `&Omega;`, `&mu;F`, `THT`/`SMD` |
 | Multi-model PSUs: use the Sony # in the folder body | `1-468-307-12` |
@@ -54,22 +54,22 @@ The goal is to provide schematics and components data for diagnostics and repair
 
 Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource present, blank = not yet.
 
-| Manufacturer | Model family | Connector | Schematics | BOM | Photos |
+| Man&mu;Facturer | Model family | Connector | Schematics | BOM | Photos |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | Matsushita (Panasonic) | [**ETXA87C2J**](psu/ETXA87C2J/) | 7-pin | ✅ | ✅ | ✅ |
 | Matsushita (Panasonic) | [**ETXNY029**](psu/ETXNY029/) | 7-pin | | | ✅ |
-| Matsushita (Panasonic) | [**ETXNY122**](psu/ETXNY122/) | 5-pin |  ✅ | | ✅ |
+| Matsushita (Panasonic) | [**ETXNY122**](psu/ETXNY122/) | 5-pin |  ✅ | ✅ | ✅ |
 | Matsushita (Panasonic) | [**ETXNY169**](psu/ETXNY169/) | 5-pin | | | ✅ |
 | Matsushita (Panasonic) | [**ETXNY209**](psu/ETXNY209/) | 5-pin |  ✅ | | ✅ |
 | Mitsumi | [**SR670**](psu/SR670/) | 7-pin | | | |
 | Mitsumi | [**SR674**](psu/SR674/) | 7-pin | | | |
 | Mitsumi | [**SR678**](psu/SR678/) | 5-pin | | | ✅ |
-| Mitsumi | [**SR679**](psu/SR679/) | 5-pin | ✅ | | ✅ |
+| Mitsumi | [**SR679**](psu/SR679/) | 5-pin | ✅ | ✅ | ✅ |
 | Fujitsu | [**KS350-1401-H039/05**](psu/KS350-1401-H039-05/) | 7-pin | | | |
 | Nichicon | [**ZSSR654HA**](psu/ZSSR654HA/) | 7-pin | | | ✅ |
-| Nichicon | [**ZSSR694MA**](psu/ZSSR694MA/) | 5-pin | ✅ | | |
+| Nichicon | [**ZSSR694MA**](psu/ZSSR694MA/) | 5-pin | ✅ | ✅ | |
 | Nichicon | [**ZSSR797MA**](psu/ZSSR797MA/) | 5-pin | | | |
-| Nichicon | [**ZSSR698HA**](psu/ZSSR698HA/) | 5-pin | ✅ | | ✅ |
+| Nichicon | [**ZSSR698HA**](psu/ZSSR698HA/) | 5-pin | ✅ | ✅ | ✅ |
 | Nichicon | [**ZSSR706HA**](psu/ZSSR706HA/) | 5-pin | ✅ | | ✅ |
 | Sony | [**PS-378**](psu/PS-378/) | dev (12V) | | | ✅ |
 
@@ -99,6 +99,6 @@ This project is licensed under the **CERN Open Hardware Licence Version 2 - Weak
 I dedicate this work to everyone keeping the PlayStation alive and well.
 
 ---
-**Disclaimer:** I am not affiliated with Sony, Matsushita (Panasonic), Mitsumi, Nichicon, Fujitsu and/or other manufacturers.
+**Disclaimer:** I am not affiliated with Sony, Matsushita (Panasonic), Mitsumi, Nichicon, Fujitsu and/or other man&mu;Facturers.
 All trademarks are the property of their respective owners.
 This project is for educational and repair purposes only.

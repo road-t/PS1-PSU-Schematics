@@ -3,7 +3,7 @@
 ### 🚧 Status & Known Limitations
 - **Schematic can be incomplete and is UNVERIFIED:** The provided schematic is a best-effort reconstruction based on tracing a physical board. It may contain errors, missing components, or incorrect net labels.
 - **Testing is ongoing:** I have **not yet fully verified** that the schematic is 100% accurate under all load conditions.
-- **Use at your own risk:** This is a **high-voltage device**. Incorrect assumptions can lead to dangerous short circuits, component damage, or personal injury. Do not use this schematic as a primary source for manufacturing or cloning without independent verification.
+- **Use at your own risk:** This is a **high-voltage device**. Incorrect assumptions can lead to dangerous short circuits, component damage, or personal injury. Do not use this schematic as a primary source for man&mu;Facturing or cloning without independent verification.
 
 ### Known Revisions
 
@@ -45,7 +45,7 @@ See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU 
 | **C101, C102, C103** | 560&mu;F 25V | Output Filter Capacitors | 25V | Could be replaced with **680&mu;F 25-35V** (Low ESR) for a minor upgrade |
 | **C104** | 180&mu;F 16V | Output Filter Capacitor | 25V | Could be replaced with **220&mu;F 25-35V** (Low ESR) |
 | **C105, C106** | 104C | 0.1&mu;F decoupling capacitors (secondary) | 250V | |
-| **C107** | 1uF 50V | 1&mu;F capacitor (secondary) | 50V | |
+| **C107** | 1&mu;F 50V | 1&mu;F capacitor (secondary) | 50V | |
 | **D001&ndash;D011** | 045x | Rectifier diodes | 200V | Unknown type |
 | **D101/D102** | MA10799 | **[MA10799](../../datasheets/MA10799.PDF)** &ndash; Dual Schottky Diodes, Common Cathode | 200V |Could be replaced with **STPS2045CT** |
 | **F001** |250V 2A | Input fuse | 250V |
@@ -65,8 +65,8 @@ See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU 
 | **R005** | 🟫 ⬛ 🟨 🟡 | 100k&Omega; resistor | N/A | 1/4W, 5%|
 | **R006, R109** | 🟫 ⬛ 🟫 🟡 | 100&Omega; resistors | N/A | 1/2W, 5%|
 | **R007, R010** | 🟥 🟥 🟫 🟡 | 220&Omega; resistors | N/A | 1/8W, 5%|
-| **R008** | 🟧 ⚪️ 🟫 🟡 | 390&Omega; resistors | N/A | 1/8W, 5%|
-| **R009** | 🟡 🟥 🟥 🟫 🟤 | 4.22k&Omega; resistors | N/A | 1/8W, 1%|
+| **R008** | 🟧 ⬜ 🟫 🟡 | 390&Omega; resistors | N/A | 1/8W, 5%|
+| **R009** | 🟨 🟥 🟥 🟫 🟤 | 4.22k&Omega; resistors | N/A | 1/8W, 1%|
 | **R101** | 🟧 🟧 🟫 🟡 | 330&Omega; resistor | N/A | 1/8W, 5%|
 | **R102** | 🟫 🟧 🟫 🟡 | 130&Omega; resistor | N/A | 1/8W, 5%|
 | **R103, R105** | 🟩 🟦 🟫 🟡 | 560&Omega; resistors | N/A | 1/8W, 5%|
@@ -80,11 +80,11 @@ See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU 
 | **R114** | 🟦 ◻️ ⬛ 🟡 | 68&Omega; resistor | N/A | 1/4W, 5%|
 | **T001** | BD131A | Switching transformer | N/A | ??? | |
 | **VR101** | N/A | Variable resistor (pot) | N/A | N/A | Usually reads in range 110&ndash;125&Omega; |
-| **ZD001** | 🟨🟨 🟧 🟧 | 4.3V Zener Diode | 20V | 1/2W |
-| **ZD002** | 🟨🟨 🟪 🟪 | 4.7V Zener Diode | 20V | 1/2W |
-| **ZD101** | 🟫🟫 🟥 | 12V Zener Diode (1W) | 20V |1W |
-| **ZD102** | 🟩🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1W |
-| **ZD103** | 🟩🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1/2W |
+| **ZD001** | 🟨 🟨 🟧 🟧 | 4.3V Zener Diode | 20V | 1/2W |
+| **ZD002** | 🟨 🟨 🟪 🟪 | 4.7V Zener Diode | 20V | 1/2W |
+| **ZD101** | 🟫 🟫 🟥 | 12V Zener Diode (1W) | 20V |1W |
+| **ZD102** | 🟩 🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1W |
+| **ZD103** | 🟩 🟩 🟫 🟫 | 5.1V Zener Diode | 20V | 1/2W |
 
 #### Color Legend
 
@@ -98,12 +98,12 @@ See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU 
 | 🟪 | Violet |
 | 🟫 | Brown |
 | ⬛ | Black |
-| ⚪️ | **White** |
+| ⬜ | **White** |
 | ◻️ | **Grey** |
 | 🟡 | Gold |
 | 🟤 | Brown |
 
-Resistor color bands are read as **digit – digit – multiplier – tolerance**. Zener diodes use the same codes, with the **first band doubled** (e.g. `🟨🟨` = yellow-yellow) to mark the cathode side, bands of same color mean decimal point (e.g. 🟩 = 5, 🟫 = 1, 🟩🟩 🟫 🟫  = 5.1V ). The circular emoji (🟡 / 🟤) represents the tolerance ring; all other rings are squares.
+Resistor color bands are read as **digit – digit – multiplier – tolerance**; 1% (F) parts use five bands, **digit – digit – digit – multiplier – tolerance**. Zener diodes use the same codes, with the **first band doubled** (e.g. `🟨🟨` = yellow-yellow) to mark the cathode side, bands of same color mean decimal point (e.g. 🟩 = 5, 🟫 = 1, 🟩🟩 🟫 🟫  = 5.1V ). The tolerance ring is circular: 🟡 gold (5%), 🟤 brown (1%); `⚪` silver (×0.01) is a multiplier band, not a tolerance. All value bands are squares (⬛ black, ⬜ white, ◻️ grey, …). In the multiplier slot `🟡` = gold (×0.1) and `⚪️` = silver (×0.01).
 
 ### Close-ups
 
