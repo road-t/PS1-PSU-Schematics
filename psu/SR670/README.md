@@ -20,10 +20,14 @@ For `1-473-381-11`, `1-473-381-13` (SR670, 68-4402A/B). Source: [RetroSix Wiki â
 | C204 | 1000uF | 6.3V | THT |
 | C203 | 2200uF | 10V | THT |
 
-## Photos
-
-_None yet._
-
 ## Schematics
 
 _None yet._
+
+## Photos
+
+### SR670
+
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-473-381-12-top_no_bg.png) | |
