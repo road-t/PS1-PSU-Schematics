@@ -18,10 +18,12 @@ For `1-468-218-31`, `1-468-218-32`. Source: [RetroSix Wiki — Capacitors (Sony 
 | C101 | 560uF | 16V | THT |
 | C102 | 820uF | 16V | THT |
 
+### Schematic
+
+### ZSSR694MA
+
+![ZSSR698HA Schematic](schematics/1-468-218-31.svg)
+
 ## Photos
-
-_None yet._
-
-## Schematics
 
 _None yet._
