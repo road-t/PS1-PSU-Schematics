@@ -67,7 +67,7 @@ Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource pre
 | Mitsumi | [**SR679**](psu/SR679/) | 5-pin | ✅ | | ✅ |
 | Fujitsu | [**KS350-1401-H039/05**](psu/KS350-1401-H039-05/) | 7-pin | | | |
 | Nichicon | [**ZSSR654HA**](psu/ZSSR654HA/) | 7-pin | | | ✅ |
-| Nichicon | [**ZSSR694MA**](psu/ZSSR694MA/) | 5-pin | | | |
+| Nichicon | [**ZSSR694MA**](psu/ZSSR694MA/) | 5-pin | ✅ | | |
 | Nichicon | [**ZSSR797MA**](psu/ZSSR797MA/) | 5-pin | | | |
 | Nichicon | [**ZSSR698HA**](psu/ZSSR698HA/) | 5-pin | ✅ | | ✅ |
 | Nichicon | [**ZSSR706HA**](psu/ZSSR706HA/) | 5-pin | ✅ | | ✅ |
