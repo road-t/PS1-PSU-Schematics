@@ -2,7 +2,7 @@
 
 | Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| `1-661-742-11` | `PS-378` | 12V | DTL-H1101 (TOOL) | Developer/debug station |
+| `1-661-742-11` | `PS-378` | 12V | DTL-H110x | Developer/debug station, needs an external 12V-adaptor |
 
 ## Photos
 

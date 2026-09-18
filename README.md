@@ -3,7 +3,10 @@
 Collection of reverse-engineering documentation for the internal power supply units used in the original Sony PlayStation (fat).
 
 [![Status: Work in Progress](https://img.shields.io/badge/Status-WIP-yellow)](https://github.com/road-t/PS1-PSU-Schematics)
-[![License: CERN-OHL-W v2](https://img.shields.io/badge/License-CERN--OHL--W%20v2-blue)](../../LICENSE)
+[![License: CERN-OHL-W v2](https://img.shields.io/badge/License-CERN--OHL--W%20v2-blue)](LICENSE)
+
+### TL; DR: [PlayStation (fat) power supply units list](psu/README.md)
+
 
 ⚠️ **Work in Progress.** Diagrams, BoMs and notes are personal reverse-engineering and researching efforts. They may contain errors and could be used at your own risk. Remember, that **working on line-powered PSUs is dangerous** — respect mains safety.
 
@@ -65,7 +68,6 @@ Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource pre
 | Matsushita (Panasonic) | [**ETXNY122**](psu/ETXNY122/) | 5-pin |  ✅ | ✅ | ✅ |
 | Matsushita (Panasonic) | [**ETXNY169**](psu/ETXNY169/) | 5-pin | | | ✅ |
 | Matsushita (Panasonic) | [**ETXNY209**](psu/ETXNY209/) | 5-pin |  ✅ | ✅ | ✅ |
-| Mitsumi | [**SR678**](psu/SR678/) | 5-pin | | | ✅ |
 | Mitsumi | [**SR670**](psu/SR670/) | 7-pin | | | ✅ |
 | Mitsumi | [**SR674**](psu/SR674/) | 7-pin | | | |
 | Mitsumi | [**SR678**](psu/SR678/) | 5-pin | | | ✅ |
