@@ -1,6 +1,6 @@
 # PlayStation (PS1/PSX) Power Supplies — Reverse Engineering Collection
 
-Collection of reverse-engineering documentation for the internal and developer power supply units used in the original Sony PlayStation (fat).
+Collection of reverse-engineering documentation for the internal power supply units used in the original Sony PlayStation (fat).
 
 [![Status: Work in Progress](https://img.shields.io/badge/Status-WIP-yellow)](https://github.com/road-t/PS1-PSU-Schematics)
 [![License: CERN-OHL-W v2](https://img.shields.io/badge/License-CERN--OHL--W%20v2-blue)](../../LICENSE)
@@ -61,7 +61,8 @@ Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource pre
 | Matsushita (Panasonic) | [**ETXNY122**](psu/ETXNY122/) | 5-pin |  ✅ | ✅ | ✅ |
 | Matsushita (Panasonic) | [**ETXNY169**](psu/ETXNY169/) | 5-pin | | | ✅ |
 | Matsushita (Panasonic) | [**ETXNY209**](psu/ETXNY209/) | 5-pin |  ✅ | | ✅ |
-| Mitsumi | [**SR670**](psu/SR670/) | 7-pin | | | |
+| Mitsumi | [**SR678**](psu/SR678/) | 5-pin | | | ✅ |
+| Mitsumi | [**SR670**](psu/SR670/) | 7-pin | | | ✅ |
 | Mitsumi | [**SR674**](psu/SR674/) | 7-pin | | | |
 | Mitsumi | [**SR678**](psu/SR678/) | 5-pin | | | ✅ |
 | Mitsumi | [**SR679**](psu/SR679/) | 5-pin | ✅ | ✅ | ✅ |
@@ -71,7 +72,7 @@ Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource pre
 | Nichicon | [**ZSSR797MA**](psu/ZSSR797MA/) | 5-pin | | | |
 | Nichicon | [**ZSSR698HA**](psu/ZSSR698HA/) | 5-pin | ✅ | ✅ | ✅ |
 | Nichicon | [**ZSSR706HA**](psu/ZSSR706HA/) | 5-pin | ✅ | | ✅ |
-| Sony | [**PS-378**](psu/PS-378/) | dev (12V) | | | ✅ |
+| Sony | [**PS-378**](psu/PS-378/) | 7-pin | | | ✅ |
 
 ## 🛠️ How to Use This Information
 0. **Determine which model of PSU you have**. Use the [PS1 power supplies list](psu/README.md).
