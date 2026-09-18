@@ -1,6 +1,6 @@
 # Sony PS-378 PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-661-742-11` | `PS-378` | 12V | DTL-H1101 (TOOL) | Developer/debug station |
 

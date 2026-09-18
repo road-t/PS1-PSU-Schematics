@@ -4,7 +4,7 @@
 
 **ZSSR698HA** family:
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-219-11` | `ZSSR698HA` | 220-240V | SCPH-5502, 5552, 7002| Europe |
 | `1-468-219-12` | `ZSSR698HA` | 220-240V | SCPH-5502, 5552, 7002| Europe |

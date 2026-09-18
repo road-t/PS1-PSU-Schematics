@@ -2,7 +2,7 @@
 
 Panasonic power supply family. Covers the Japanese 100V, North American 120V, European 220–240V and Asia universal 100–240V variants.
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-413-997-16` | `ETXNY029J1C` (NPX029J1-1) | 100V | SCPH-1000, 3000, 3500, 5000 | Japan |
 | `1-413-997-17` | `ETXNY029J1C` (NPX029J1-1A) | 100V | SCPH-1000, 3000, 3500, 5000 | Japan |

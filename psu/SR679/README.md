@@ -1,6 +1,6 @@
 # Mitsumi SR679 PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-218-21` | `SR679` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
 

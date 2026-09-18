@@ -1,6 +1,6 @@
 # Mitsumi SR670 PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-473-381-11` | `SR670` | 120V | SCPH-1001 | North America |
 | `1-473-381-12` | `SR670` | 120V | SCPH-1001 | North America |

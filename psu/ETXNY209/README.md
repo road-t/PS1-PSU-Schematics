@@ -2,7 +2,7 @@
 
 Late fat model power supply family.
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-366-11` | `ETXNY209J1B` (NPX209J1-1) | 100V | SCPH-5500, 7000, 7500, 9000 | Japan |
 | `1-468-365-11` | `ETXNY209A1B` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |

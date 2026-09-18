@@ -1,6 +1,6 @@
 # KS350-1401-H039/05 (Fujitsu, 7-pin)
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-158-11` | `KS350-1401-H039/05` | 120V | SCPH-1001 | North America |
 

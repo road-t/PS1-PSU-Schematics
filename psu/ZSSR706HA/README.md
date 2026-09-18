@@ -1,6 +1,6 @@
 # Nichicon ZSSR706HA PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-303-11` | `ZSSR706HA` | 220–240V | SCPH-5502, 7002, 7502, 9002 | Europe |
 | `1-468-303-12` | `ZSSR706HA` | 220–240V | SCPH-5502, 7002, 7502, 9002 | Europe |

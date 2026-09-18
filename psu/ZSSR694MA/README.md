@@ -1,6 +1,6 @@
 # Nichicon ZSSR694MA PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-218-31` | `ZSSR694MA` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
 | `1-468-218-32` | `ZSSR694MA` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
