@@ -5,7 +5,7 @@ Late fat model power supply family.
 | Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-176-11` | `ETXNY122J1B` (NPX122J1-1) | 100V | SCPH-5500, 7000, 7500, 9000 | Japan |
-| `1-468-218-11` | `ETXNY122A1B` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
+| `1-468-218-11` | `ETXNY122A1B` (NPX122A1-1) | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
 | `1-468-219-21` | `ETXNY122E1B` (NPX122E1-1) | 220–240V | SCPH-5502, 7002, 7502, 9002 | Europe |
 | `1-468-243-11` | `ETXNY122M1B` (NPX122M1-1A) | 100–240V | SCPH-5503, 7003, 7503, 9003 | Asia (universal) |
 
@@ -196,6 +196,10 @@ _None yet._
 | **ZD102** | 🟩 🟩 🟫 🟫 | Zener Diode | — | 5.1V, 1/2W, Part: RD5.1EB |
 | **ZD103** | 🟫 🟫 🟥 | Zener Diode | — | 12V, 1/2W, Part: RD12EB |
 | **ZD104** | 🟩 🟩 🟫 🟫 | Zener Diode | — | 5.1V, 0.4W, Part: MA4051 |
+
+### ETXNY122E1B (1-468-219-21)
+
+_None yet._
 
 ### ETXNY122M1B (1-468-243-11)
 

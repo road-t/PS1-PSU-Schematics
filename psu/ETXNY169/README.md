@@ -2,10 +2,10 @@
 
 Late fat model power supply family.
 
-| Sony # | Man&mu;Facturer # | Voltage | Models | Notes |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| `1-468-302-11` | `ETXNY169J1B` (NPX169J1-1) | 100V | 7000, 7500, 9000 | Japan |
-| `1-468-305-11` | `ETXNY169A1B` (NPXA169A1) | 120V | 7001, 7501, 9001 | North America |
+| `1-468-302-11` | `ETXNY169J1B` (`NPX169J1-1`) | 100V | 7000, 7500, 9000 | Japan |
+| `1-468-305-11` | `ETXNY169A1B` (`NPXA169A1`) | 120V | 7001, 7501, 9001 | North America |
 
 ## Schematics
 
