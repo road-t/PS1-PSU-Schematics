@@ -21,13 +21,26 @@ Late fat model power supply family.
 
 ## Photos
 
+### ETXNY122J1B
+
 | Board top | Board bottom |
 | :--- | :--- |
 | ![Board top](photos/1-468-176-11-top_no_bg.png) | ![Board bottom](photos/1-468-176-11-bottom_no_bg.png) |
 
-Понял, ты прав. Разделяю: `Original Label` — только то, что реально написано на самом компоненте, а номиналы (сопротивление, напряжение, допуск) уходят в `Note`.
+### ETXNY122A1B
 
-Вот исправленная таблица. Для резисторов и стабилитронов я подставил цветовые коды, соответствующие номиналам из PDF:
+_None yet._
+
+### ETXNY122E1B
+
+_None yet._
+
+### ETXNY122M1B
+
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-468-243-11-top_no_bg.png) |  |
+
 
 ## 🔧 Component List
 
@@ -49,8 +62,6 @@ Late fat model power supply family.
 | **C105** | — | Electrolytic Capacitor | 25V | 330&mu;F, Part: EE&mu;FC1E331 |
 | **C106** | 223 | Film Capacitor | 50V | 0.022&mu;F, Part: ECQB1H223KF |
 | **C107** | — | Electrolytic Capacitor | 50V | 1&mu;F, Part: ECEA1HU010 |
-| **CN001** | — | AC Inlet | 250V | 2.5A, Part: ACM08PG39 |
-| **CN101** | — | Connector | — | EH5, Part: B5B-EH-FT |
 | **D001** | — | Rectifier Diode | 400V | 1A, Part: ERA15-04 |
 | **D002** | — | Rectifier Diode | 400V | 1A, Part: ERA15-04 |
 | **D003** | — | Rectifier Diode | 400V | 1A, Part: ERA15-04 |
@@ -127,8 +138,6 @@ Late fat model power supply family.
 | **C105** | 330&mu;F | Electrolytic Capacitor | 25V | Part: EE&mu;FC1E331 |
 | **C106** | 0.022&mu;F | Film Capacitor | 50V | Part: ECQB1H223KF |
 | **C107** | 1&mu;F | Electrolytic Capacitor | 50V | Part: ECEA1HU010 |
-| **CN001** | — | AC Inlet | 250V | 2.5A, Part: ACM09PG41 |
-| **CN101** | — | Connector | — | EH5, Part: B5B-EH-TV4 |
 | **D001** | — | Rectifier Diode | 400V | 1A, Part: ERA15-04 |
 | **D002** | — | Rectifier Diode | 400V | 1A, Part: ERA15-04 |
 | **D003** | — | Rectifier Diode | 400V | 1A, Part: ERA15-04 |
@@ -208,8 +217,6 @@ Late fat model power supply family.
 | **C105** | 330&mu;F | Electrolytic Capacitor | 25V | Part: EEUFC1E331 |
 | **C106** | 0.068&mu;F | Film Capacitor | 50V | Part: ECQB1H683 |
 | **C107** | 1&mu;F | Electrolytic Capacitor | 50V | Part: ECEA1HU010 |
-| **CN001** | — | AC Inlet | 250V | 2.5A, Part: ACM08PG39 |
-| **CN101** | — | Connector | — | EH5, Part: B5B-EH-TV4 |
 | **D001** | — | Rectifier Diode | 600V | 1A, Part: S1WB60 |
 | **D003** | — | Signal Diode | 80V | 0.15A, Part: MA165 |
 | **D004** | — | Signal Diode | 80V | 0.15A, Part: MA165 |
@@ -251,7 +258,7 @@ Late fat model power supply family.
 | **R108** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;, 0.25W, Part: ERDS2TJ221 |
 | **R110** | 🟫 🟩 🟥 🟡 | Carbon Resistor | — | 1.5k&Omega;, 0.25W, Part: ERDS2TJ152 |
 | **R111** | 🟫 🟩 ⬛ 🟡 | Carbon Resistor | — | 15&Omega;, 0.25W, Part: ERDS2TJ150 |
-| **R112** | 🟫 ◻️ 🟨 🟡 | Carbon Resistor | — | 180k&Omega;, 0.25W, Part: ERDS2TJ181 |
+| **R112** | 🟫 ◻️ 🟫 🟡 | Carbon Resistor | — | 180&Omega;, 0.25W, Part: ERDS2TJ181 |
 | **R113** | 🟫 🟧 🟧 🟥 🟤 | Metal Resistor | — | 13.3k&Omega;, 0.25W, Part: ERDS2TKF1332 |
 | **R114** | 🟫 ⬛ ⬛ 🟥 🟤 | Metal Resistor | — | 10k&Omega;, 0.25W, Part: ERDS2TKF1002 |
 | **R115** | 🟫 🟧 🟫 🟡 | Carbon Resistor | — | 130&Omega;, 0.25W, Part: ERDS2TJ131 |
@@ -266,6 +273,8 @@ Late fat model power supply family.
 | **ZD102** | 🟩🟩 🟫 🟫 | Zener Diode | — | 5.1V, 0.5W, Part: RD5.1B |
 | **ZD103** | 🟫🟫 🟥 | Zener Diode | — | 12V, 0.5W, Part: RD12EB |
 | **ZD104** | 🟩🟩 🟫 🟫 | Zener Diode | — | 5.1V, 0.4W, Part: MA4051 |
+
+⚠️ *The official Sony manual lists an incorrect value for **R112** in the **ETXNY122M1B** — **180kΩ** instead of **180Ω**.*
 
 #### Color Legend
 
