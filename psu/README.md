@@ -9,7 +9,7 @@
 
 ## 7-pin Internal PSUs (early models — PU-7, PU-8, PU-9, PU-16)
 
-| Sony # | Man&mu;Facturer # | Man&mu;Facturer | Voltage | Models | Motherboards | Notes |
+| Sony # | Manufacturer # | Manufacturer | Voltage | Models | Motherboards | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `1-413-997-12` | `ETXA87C2J` (NPXA87J-1B) | Matsushita (Panasonic) | 100V | SCPH-1000, 3000 | PU-7, PU-8 | Japan |
 | `1-413-997-13` | `ETXA87C2J` (NPXA87J-1C) | Matsushita (Panasonic) | 100V | SCPH-1000, 3000 | PU-7, PU-8 | Japan |
@@ -33,7 +33,7 @@
 
 ## 5-pin Internal PSUs (late models — PU-18, PU-20, PU-22, PU-23)
 
-| Sony # | Man&mu;Facturer # | Man&mu;Facturer | Voltage | Models | Motherboards | Notes |
+| Sony # | Manufacturer # | Manufacturer | Voltage | Models | Motherboards | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `1-468-176-11` | `ETXNY122J1B` (NPX122J1-1) | Matsushita (Panasonic) | 100V | SCPH-5500, 7000 | PU-18, PU-20 | Japan |
 | `1-468-176-23` | `SR678` | Mitsumi | 100V | SCPH-7000, 7500 | PU-18, PU-20 | Japan |

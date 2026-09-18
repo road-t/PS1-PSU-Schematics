@@ -23,10 +23,10 @@ This mirrors the convention used by the real models, e.g. [`psu/ETXA87C2J/`](../
    cp -r template/psu/MODELNAME psu/<YOUR_MODEL>
    ```
 2. **Fill in the placeholders** in `README.md`:
-   - `<MODEL>` — man&mu;Facturer model number, e.g. `ZSSR697MA`
+   - `<MODEL>` — manufacturer model number, e.g. `ZSSR697MA`
    - `<N>` — pin count, e.g. `7`, `5`
    - `<VOLTAGE>` — mains rating, e.g. `100–120V`, `220–240V`
-   - `<MAN&mu;FACTURER>` — e.g. `Nichicon`, `Mitsumi`, `Matsushita (Panasonic)` etc.
+   - `<MANUFACTURER>` — e.g. `Nichicon`, `Mitsumi`, `Matsushita (Panasonic)` etc.
    - `<Sony#>` — Sony part number, e.g. `1-468-219-13`
 3. **Drop in your assets:**
    - board photos → `photos/` (top/bottom)

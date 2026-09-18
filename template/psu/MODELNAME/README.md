@@ -1,8 +1,8 @@
-# <MAN&mu;FACTURER> <OEM-PART#> PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
+# <MANUFACTURER> <OEM-PART#> PSU for Sony PlayStation (PSX/PS1) &ndash; specs, schematics and photos
 
 ### Known Revisions
 
-| Sony Part No. | Man&mu;Facturer Part No. | Voltage | Models | Notes | Tested |
+| Sony Part No. | Manufacturer Part No. | Voltage | Models | Notes | Tested |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `1-xxx-xxx-xx` | `<MODEL>` | 100-240V | SCPH-7003, SCPH-7503, SCPH-9003 | | &#9989; |
 

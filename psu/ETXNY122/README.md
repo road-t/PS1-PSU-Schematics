@@ -274,7 +274,13 @@ _None yet._
 | **ZD103** | 🟫🟫 🟥 | Zener Diode | — | 12V, 0.5W, Part: RD12EB |
 | **ZD104** | 🟩🟩 🟫 🟫 | Zener Diode | — | 5.1V, 0.4W, Part: MA4051 |
 
-⚠️ *The official Sony manual lists an incorrect value for **R112** in the **ETXNY122M1B** — **180kΩ** instead of **180Ω**.*
+⚠️ Some silkscreen/part code values that differ from the official Sony list (kept as physically marked):
+
+- **L101 / L102** — manual: `3.3mH`; silkscreen `3R3` decodes as **3.3&mu;H** (R = decimal point).
+- **R003** — manual: `300, 1W`; part `ERG1ST331` = **330&Omega;, 1W**.
+- **C001** — manual: `0.1µF, 257V`; X-cap `MKP20104M` = **275V AC**.
+- **D007** — manual lists it twice; the `1kV, 0.5A` entry corresponds to **D008**.
+- **R112** — manual: `180kΩ`; part `ERDS2TJ181` = **180&Omega;**.
 
 #### Color Legend
 

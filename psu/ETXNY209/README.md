@@ -70,9 +70,9 @@ Late fat model power supply family.
 | **D101** | — | Schottky Diode | — | Part: SB340 |
 | **D102** | — | Schottky Diode | — | Part: SB340 |
 | **PD101** | — | LED | — | Part: LNJ301MPUJAD |
-| **ZD001** | — | Zener Diode | — | Part: MA4047 |
-| **ZD102** | — | Zener Diode | — | Part: MA7051B |
-| **ZD103** | — | Zener Diode | — | Part: RD12EB |
+| **ZD001** | 🟨 🟨 🟪 🟪 | Zener Diode | — | Part: MA4047 |
+| **ZD102** | 🟩 🟩 🟫 🟫 | Zener Diode | — | Part: MA7051B |
+| **ZD103** | 🟫 🟫 🟥 | Zener Diode | — | Part: RD12EB |
 | **F001** | — | Fuse | 250V | 2A |
 | **IC101** | VISA41K01 | Feedback / Regulation IC | — | Part: VISA41K01 |
 | **L001** | — | Choke Coil | — | Part: ELF15N004A |
@@ -83,22 +83,22 @@ Late fat model power supply family.
 | **Q002** | 2SD1450 | NPN Transistor | — | Part: 2SD1450 |
 | **PC001** | PS2501-1 | Photocoupler | — | Part: PS2501-1 |
 | **T001** | ETB29KL115AC | Transformer | — | Part: ETB29KL115AC |
-| **R001** | 🟨🟪🟨⚪ | Carbon Resistor | — | 470k&Omega;, 1/2W |
-| **R002** | 🟧⚫🟧⚪ | Carbon Resistor | — | 30k&Omega;, 1/2W |
-| **R003** | 🟧⚫🟨⚪ | Metal Resistor | — | 300k&Omega;, 1/4W |
-| **R004** | 🟥🟥🟫⚪ | Metal Resistor | — | 220&Omega;, 1W |
-| **R006** | 🟥🟥🟫⚪ | Carbon Resistor | — | 220&Omega;, 1/2W |
-| **R007** | 🟫🟩🟧⚪ | Carbon Resistor | — | 15k&Omega;, 1/4W |
-| **R008** | 🟫🟧🟪⚪ | Metal Resistor | — | 13.0k&Omega;–15.0k&Omega;, 1/4W |
-| **R009** | 🟧🟧⚫⚪ | Carbon Resistor | — | 82&Omega;, 1/4W |
-| **R010** | 🟥🟥🟫⚪ | Carbon Resistor | — | 220&Omega;, 1/4W |
-| **R011** | 🟫🟪🟨⚪ | Metal Resistor | — | 82k&Omega;–120k&Omega;, 2W |
-| **R111** | 🟫🟪🟪⚪ | Metal Resistor | — | 1.78k&Omega;, 1/4W |
-| **R113** | 🟥🟥🟫⚪ | Carbon Resistor | — | 220&Omega;–360&Omega;, 1/4W |
-| **R114** | 🟫⚫🟥⚪ | Metal Resistor | — | 1k&Omega;, 1/4W |
+| **R001** | 🟨 🟪 🟨 🟡 | Carbon Resistor | — | 470k&Omega;, 1/2W |
+| **R002** | 🟧 ⬛ 🟧 🟡 | Carbon Resistor | — | 30k&Omega;, 1/2W |
+| **R003** | 🟧 ⬛ 🟨 🟡 | Metal Resistor | — | 300k&Omega;, 1/4W |
+| **R004** | 🟥 🟥 🟫 🟡 | Metal Resistor | — | 220&Omega;, 1W |
+| **R006** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;, 1/2W |
+| **R007** | 🟫 🟩 🟧 🟡 | Carbon Resistor | — | 15k&Omega;, 1/4W |
+| **R008** | 🟫 🟧 🟪 🟥 🟤 | Metal Resistor | — | 13.0k&Omega;–15.0k&Omega;, 1/4W |
+| **R009** | 🟧 🟧 ⬛ 🟡 | Carbon Resistor | — | 82&Omega;, 1/4W |
+| **R010** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;, 1/4W |
+| **R011** | 🟫 🟪 🟨 🟡 | Metal Resistor | — | 82k&Omega;–120k&Omega;, 2W |
+| **R111** | 🟫 🟪 ◻️ 🟫 🟤 | Metal Resistor | — | 1.78k&Omega;, 1/4W |
+| **R113** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;–360&Omega;, 1/4W |
+| **R114** | 🟫 ⬛ 🟥 🟡 | Metal Resistor | — | 1k&Omega;, 1/4W |
 | **R117** | N/A | Jumper | — | 0&Omega; |
-| **R118** | 🟫⚫🟥⚪ | Carbon Resistor | — | 1k&Omega;, 1/4W |
-| **R119** | 🟫⚫🟫⚪ | Carbon Resistor | — | 100&Omega;, 1/4W |
+| **R118** | 🟫 ⬛ 🟥 🟡 | Carbon Resistor | — | 1k&Omega;, 1/4W |
+| **R119** | 🟫 ⬛ 🟫 🟡 | Carbon Resistor | — | 100&Omega;, 1/4W |
 
 
 ### ETXNY209A1B
@@ -132,9 +132,9 @@ Late fat model power supply family.
 | **D101** | — | Schottky Diode | — | Part: SB340 |
 | **D102** | — | Schottky Diode | — | Part: SB340 |
 | **PD101** | — | LED | — | Part: LNJ301MPUJAD |
-| **ZD001** | — | Zener Diode | — | Part: MA4047 |
-| **ZD102** | — | Zener Diode | — | Part: MA7051B |
-| **ZD103** | — | Zener Diode | — | Part: RD12EB |
+| **ZD001** | 🟨 🟨 🟪 🟪 | Zener Diode | — | Part: MA4047 |
+| **ZD102** | 🟩 🟩 🟫 🟫 | Zener Diode | — | Part: MA7051B |
+| **ZD103** | 🟫 🟫 🟥 | Zener Diode | — | Part: RD12EB |
 | **F001** | — | Fuse | 250V | 2A |
 | **IC101** | VISA41K01 | Feedback / Regulation IC | — | Part: VISA41K01 |
 | **L001** | — | Choke Coil | — | Part: ELF15N004A |
@@ -145,20 +145,40 @@ Late fat model power supply family.
 | **Q002** | 2SD1450 | NPN Transistor | — | Part: 2SD1450 |
 | **PC001** | PS2501-1 | Photocoupler | — | Part: PS2501-1 |
 | **T001** | ETB29KL115AC | Transformer | — | Part: ETB29KL115AC |
-| **R001** | 🟨🟪🟨⚪ | Carbon Resistor | — | 470k&Omega;, 1/2W |
-| **R002** | 🟧⚫🟧⚪ | Carbon Resistor | — | 30k&Omega;, 1/2W |
-| **R003** | 🟧⚫🟨⚪ | Metal Resistor | — | 300k&Omega;, 1/4W |
-| **R004** | 🟥🟥🟫⚪ | Metal Resistor | — | 220&Omega;, 1W |
-| **R005** | 🟦⚪⚫⚪ | Carbon Resistor | — | 6.8M&Omega;, 1/2W |
-| **R006** | 🟥🟥🟫⚪ | Carbon Resistor | — | 220&Omega;, 1/2W |
-| **R007** | 🟫🟩🟧⚪ | Carbon Resistor | — | 15k&Omega;, 1/4W |
-| **R008** | 🟫🟧🟪⚪ | Metal Resistor | — | 13.0k&Omega;–15.0k&Omega;, 1/4W |
-| **R009** | 🟧🟧⚫⚪ | Carbon Resistor | — | 82&Omega;, 1/4W |
-| **R010** | 🟥🟥🟫⚪ | Carbon Resistor | — | 220&Omega;, 1/4W |
-| **R011** | 🟫🟪🟨⚪ | Metal Resistor | — | 82k&Omega;–120k&Omega;, 2W |
-| **R111** | 🟫🟪🟪⚪ | Metal Resistor | — | 1.78k&Omega;, 1/4W |
-| **R113** | 🟥🟥🟫⚪ | Carbon Resistor | — | 220&Omega;–360&Omega;, 1/4W |
-| **R114** | 🟫⚫🟥⚪ | Metal Resistor | — | 1k&Omega;, 1/4W |
+| **R001** | 🟨 🟪 🟨 🟡 | Carbon Resistor | — | 470k&Omega;, 1/2W |
+| **R002** | 🟧 ⬛ 🟧 🟡 | Carbon Resistor | — | 30k&Omega;, 1/2W |
+| **R003** | 🟧 ⬛ 🟨 🟡 | Metal Resistor | — | 300k&Omega;, 1/4W |
+| **R004** | 🟥 🟥 🟫 🟡 | Metal Resistor | — | 220&Omega;, 1W |
+| **R005** | 🟦 ◻️ 🟩 🟡 | Carbon Resistor | — | 6.8M&Omega;, 1/2W |
+| **R006** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;, 1/2W |
+| **R007** | 🟫 🟩 🟧 🟡 | Carbon Resistor | — | 15k&Omega;, 1/4W |
+| **R008** | 🟫 🟧 🟪 🟥 🟤 | Metal Resistor | — | 13.0k&Omega;–15.0k&Omega;, 1/4W |
+| **R009** | 🟧 🟧 ⬛ 🟡 | Carbon Resistor | — | 82&Omega;, 1/4W |
+| **R010** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;, 1/4W |
+| **R011** | 🟫 🟪 🟨 🟡 | Metal Resistor | — | 82k&Omega;–120k&Omega;, 2W |
+| **R111** | 🟫 🟪 ◻️ 🟫 🟤 | Metal Resistor | — | 1.78k&Omega;, 1/4W |
+| **R113** | 🟥 🟥 🟫 🟡 | Carbon Resistor | — | 220&Omega;–360&Omega;, 1/4W |
+| **R114** | 🟫 ⬛ 🟥 🟡 | Metal Resistor | — | 1k&Omega;, 1/4W |
 | **R117** | N/A | Jumper | — | 0&Omega; |
-| **R118** | 🟫⚫🟥⚪ | Carbon Resistor | — | 1k&Omega;, 1/4W |
-| **R119** | 🟫⚫🟫⚪ | Carbon Resistor | — | 100&Omega;, 1/4W |
+| **R118** | 🟫 ⬛ 🟥 🟡 | Carbon Resistor | — | 1k&Omega;, 1/4W |
+| **R119** | 🟫 ⬛ 🟫 🟡 | Carbon Resistor | — | 100&Omega;, 1/4W |
+
+#### Color Legend
+
+| Emoji | Color |
+| :--- | :--- |
+| 🟥 | Red |
+| 🟧 | Orange |
+| 🟨 | Yellow |
+| 🟩 | Green |
+| 🟦 | Blue |
+| 🟪 | Violet |
+| 🟫 | Brown |
+| ⬛ | Black |
+| ⬜ | **White** |
+| ◻️ | **Grey** |
+| ⚪ | **Silver** (×0.01 multiplier) |
+| 🟡 | Gold |
+| 🟤 | Brown |
+
+Resistor color bands are read as **digit – digit – multiplier – tolerance**; 1% (F) parts use five bands, **digit – digit – digit – multiplier – tolerance**. Zener diodes use the same codes, with the **first band doubled** (e.g. `🟨🟨` = yellow-yellow) to mark the cathode side, bands of same color mean decimal point (e.g. 🟩 = 5, 🟫 = 1, 🟩🟩 🟫 🟫  = 5.1V ). The tolerance ring is circular: 🟡 gold (5%), 🟤 brown (1%); `⚪` silver (×0.01) is a multiplier band, not a tolerance. All value bands are squares (⬛ black, ⬜ white, ◻️ grey, …). In the multiplier slot `🟡` = gold (×0.1) and `⚪` = silver (×0.01).
