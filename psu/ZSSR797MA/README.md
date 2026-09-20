@@ -4,6 +4,17 @@
 | :--- | :--- | :--- | :--- | :--- |
 | `1-468-307-12` | `ZSSR797MA` | 120V | SCPH-5501, 7001, 7501, 9001 | North America |
 
+
+## Schematics
+
+_None yet._
+
+## Photos
+
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-468-307-12-top_no_bg.png) |  |
+
 ## Capacitors
 
 For `1-468-307-12` (listed as **ZSSR797MA** on RetroSix). Source: [RetroSix Wiki — Capacitors (Sony PlayStation 1)](https://retrosix.wiki/wiki/capacitors-sony-playstation-1). All THT.
@@ -15,11 +26,3 @@ For `1-468-307-12` (listed as **ZSSR797MA** on RetroSix). Source: [RetroSix Wiki
 | C003 | 100&mu;F | 200V | THT |
 | C103, C104 | 180&mu;F | 16V | THT |
 | C101, C102 | 560&mu;F | 16V | THT |
-
-## Photos
-
-_None yet._
-
-## Schematics
-
-_None yet._
