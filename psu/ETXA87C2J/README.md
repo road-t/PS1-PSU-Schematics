@@ -9,28 +9,35 @@
 
 **ETXA87C2J** (**NPXA87J** family):
 
-| Sony Part No. | Panasonic Part No. | Tested |
+| Sony Part No. | Panasonic Part No. |
 | :--- | :--- | :--- |
-| 1-413-997-12 | ETXA87C2J (NPXA87J-1B) | |
-| 1-413-997-13 | ETXA87C2J (NPXA87J-1C) | |
-| 1-413-997-14 | ETXA87C2J (NPXA87J-1D) | &#9989; |
-| 1-413-997-15 | ETXA87C2J (NPXA87J-1E) | &#9989; |
-
-See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU list.
+| 1-413-997-12 | ETXA87C2J (NPXA87J-1B) |
+| 1-413-997-13 | ETXA87C2J (NPXA87J-1C) |
+| 1-413-997-14 | ETXA87C2J (NPXA87J-1D) |
+| 1-413-997-15 | ETXA87C2J (NPXA87J-1E) |
 
 ### Schematic
 
 ![ETXA87C2J Schematic](schematics/ETXA87C2J.svg)
 
-## 📷 Board Photos
+## Photos
 
-### Top / Bottom
+### General view
 
-| Top side | Bottom side |
+| Board top | Board bottom |
 | :--- | :--- |
 | ![Board top](photos/ETXA87C2J-board-top.png) | ![Board bottom](photos/ETXA87C2J-board-bottom.png) |
 
-## 🔧 Component List & Common Substitutions
+### Close-ups
+
+| Component | Photo |
+| :--- | :--- |
+| **C003** (input filter cap) | ![C003](photos/ETXA87C2J-C003.png) |
+| **IC101** (AN6562 op-amp) | ![IC101](photos/ETXA87C2J-IC101.png) |
+| **PC001** (PS2501 optocoupler) | ![PC001](photos/ETXA87C2J-PC001.png) |
+| **Q001** (2SC4953 switching transistor) | ![Q001](photos/ETXA87C2J-Q001.png) |
+
+## 🔧 Component List
 
 | Component | Original&nbsp;Label | Actual Chip / Function | Voltage | Note |
 | :--- | :--- | :--- | :--- | :--- |
@@ -104,12 +111,3 @@ See [my document](../../psu/README.md) for the full (not sure)  PlayStation PSU 
 | 🟤 | Brown |
 
 Resistor color bands are read as **digit – digit – multiplier – tolerance**; 1% (F) parts use five bands, **digit – digit – digit – multiplier – tolerance**. Zener diodes use the same codes, with the **first band doubled** (e.g. `🟨🟨` = yellow-yellow) to mark the cathode side, bands of same color mean decimal point (e.g. 🟩 = 5, 🟫 = 1, 🟩🟩 🟫 🟫  = 5.1V ). The tolerance ring is circular: 🟡 gold (5%), 🟤 brown (1%); `⚪` silver (×0.01) is a multiplier band, not a tolerance. All value bands are squares (⬛ black, ⬜ white, ◻️ grey, …). In the multiplier slot `🟡` = gold (×0.1) and `⚪️` = silver (×0.01).
-
-### Close-ups
-
-| Component | Photo |
-| :--- | :--- |
-| **C003** (input filter cap) | ![C003](photos/ETXA87C2J-C003.png) |
-| **IC101** (AN6562 op-amp) | ![IC101](photos/ETXA87C2J-IC101.png) |
-| **PC001** (PS2501 optocoupler) | ![PC001](photos/ETXA87C2J-PC001.png) |
-| **Q001** (2SC4953 switching transistor) | ![Q001](photos/ETXA87C2J-Q001.png) |

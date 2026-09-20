@@ -10,5 +10,13 @@
 _None yet._
 
 ## Photos
+### General view
+| Board top | Board bottom |
+| :--- | :--- |
+| ![Board top](photos/1-468-105-11-top_no_bg.png) | ![Board bottom](photos/1-468-105-11-bottom_no_bg.png) |
 
-_None yet._
+## Close-ups
+
+![1-468-105-11 close-up](photos/1-468-105-11-closeup_live_no_bg.png)
+
+![Mitsumi SR674 close-up](photos/1-468-105-11-closeup_no_bg.png)

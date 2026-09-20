@@ -69,7 +69,7 @@ Each PSU family lives in its own folder under [`psu/`](psu/). ✅ = resource pre
 | Matsushita (Panasonic) | [**ETXNY169**](psu/ETXNY169/) | 5-pin | 🚧 | 🚧 | ✅ |
 | Matsushita (Panasonic) | [**ETXNY209**](psu/ETXNY209/) | 5-pin | ✅ | ✅ | ✅ |
 | Mitsumi | [**SR670**](psu/SR670/) | 7-pin | 🆘 | 🆘 | ✅ |
-| Mitsumi | [**SR674**](psu/SR674/) | 7-pin | 🆘 | 🆘 | 🆘 |
+| Mitsumi | [**SR674**](psu/SR674/) | 7-pin | 🆘 | 🆘 | ✅ |
 | Mitsumi | [**SR678**](psu/SR678/) | 5-pin | 🚧 | 🚧 | ✅ |
 | Mitsumi | [**SR679**](psu/SR679/) | 5-pin | ✅ | ✅ | ✅ |
 | Fujitsu | [**KS350-1401-H039/05**](psu/KS350-1401-H039-05/) | 7-pin | 🆘 | 🆘 | 🆘 |
