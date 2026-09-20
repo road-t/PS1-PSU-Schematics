@@ -4,7 +4,7 @@
 
 | Sony Part No. | Manufacturer Part No. | Voltage | Models | Notes | Tested |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `1-xxx-xxx-xx` | `<MODEL>` | 100-240V | SCPH-7003, SCPH-7503, SCPH-9003 | | &#9989; |
+| `1-xxx-xxx-xx` | `<MODEL>` (NPX<MODEL>-x) | 100&ndash;240V | SCPH-7003, 7503, 9003 | `<REGION>` |
 
 See [my document](../psu/README.md) for the full (not sure)  PlayStation PSU list.
 

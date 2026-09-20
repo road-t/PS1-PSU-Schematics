@@ -9,12 +9,12 @@
 
 **ETXA87C2J** (**NPXA87J** family):
 
-| Sony Part No. | Panasonic Part No. |
-| :--- | :--- | :--- |
-| 1-413-997-12 | ETXA87C2J (NPXA87J-1B) |
-| 1-413-997-13 | ETXA87C2J (NPXA87J-1C) |
-| 1-413-997-14 | ETXA87C2J (NPXA87J-1D) |
-| 1-413-997-15 | ETXA87C2J (NPXA87J-1E) |
+| Sony # | Manufacturer # | Voltage | Models | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| `1-413-997-12` | `ETXA87C2J` (NPXA87J-1B) | 100V | SCPH-1000 | Japan |
+| `1-413-997-13` | `ETXA87C2J` (NPXA87J-1C) | 100V | SCPH-1000 | Japan |
+| `1-413-997-14` | `ETXA87C2J` (NPXA87J-1D) | 100V | SCPH-1000, SCPH-1001 (?) | Japan (North America?) |
+| `1-413-997-15` | `ETXA87C2J` (NPXA87J-1E) | 100V | SCPH-1000, 3000 | Japan |
 
 ### Schematic
 
